@@ -1,0 +1,14 @@
+#!/bin/bash
+total 36
+drwxr-xr-x 2 root root 179 Mar 13 17:23 .
+drwxr-xr-x 6 root root 121 Mar 13 16:19 ..
+-rwxr--r-- 1 root root  32 Mar 13 16:20 0-hello_world
+-rwxr--r-- 1 root root  28 Mar 13 16:37 1-confused_smiley
+-rwxr--r-- 1 root root  28 Mar 13 16:39 2-hellofile
+-rwxr--r-- 1 root root  39 Mar 13 16:42 3-twofiles
+-rwxr--r-- 1 root root  35 Mar 13 16:43 4-lastlines
+-rwxr--r-- 1 root root  35 Mar 13 16:45 5-firstlines
+-rwxr--r-- 1 root root  36 Mar 13 17:04 6-third_line
+-rwxr--r-- 1 root root  92 Mar 13 17:23 7-file
+-rw-r--r-- 1 root root   5 Mar 13 16:24 README.md
+
